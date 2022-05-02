@@ -1,0 +1,61 @@
+
+
+.div-der{ background-image: url(../imgs/honolulu.jpg);
+    background-size: cover;
+}
+
+.div-izq{ background-color:#34393f ; color: white;
+
+}
+
+.btn{color: white;}
+
+.button{
+    padding: 12px;
+    border: none;
+}
+
+.formcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.mb-3{
+    display: inline;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.texto1{
+    text-align: center;
+    padding: 16px;
+}
+.texto2{
+    text-align: center;
+    padding: 16px;
+}
+.texto3{
+    text-align: center;
+    padding: 16px;
+
+}
+
+.nav{
+    background-color: #343841;
+    color: white;
+    
+
+}
+#menu{
+    background-color: #343841;
+    border: none;
+    
+}
+
+.vinculos{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+}
